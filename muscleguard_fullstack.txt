@@ -1,0 +1,9 @@
+muscleguard_fullstack
+
+cd backend
+python main.py
+
+
+
+cd "c:\Users\Lenovo\OneDrive\Desktop\muscleguard_fullstack\muscleguard\backend"
+python reset_db.py full
